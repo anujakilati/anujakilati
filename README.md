@@ -2,14 +2,14 @@
 
 🌱 I'm currently focused on learning more about Machine Learning!  
 
-Here is my LinkedIn: www.linkedin.com/in/ananya-jakilati
+🔗 Here is my LinkedIn: www.linkedin.com/in/ananya-jakilati
 
-⚡ Fun fact: Skilled in Python, C, C++, Java
+⚡ Fun fact: Skilled in Python, C, C++, Java, Swift, Autodesk Inventor, 
 
 📫 Contact: anu.jakilati@gmail.com
 
-Projects:
+🎬 Here are some projects!
 
-  Google ML: https://github.com/anujakilati/QueryPopularityRanking-System
+      📗 Google ML: https://github.com/anujakilati/QueryPopularityRanking-System
 
-  Break Through Tech AI, ML Foundations Course Labs: https://github.com/anujakilati/BreakThroughTechAI
+      📙 Break Through Tech AI, ML Foundations Course Labs: https://github.com/anujakilati/BreakThroughTechAI
