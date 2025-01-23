@@ -6,3 +6,6 @@ Here is my LinkedIn: www.linkedin.com/in/ananya-jakilati
 
 ⚡ Fun fact: Skilled in Python, C, C++, Java
 📫 Contact: anu.jakilati@gmail.com
+
+Projects:
+  Google ML: https://github.com/anujakilati/QueryPopularityRanking-System
