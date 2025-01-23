@@ -4,7 +4,7 @@
 
 🔗 Here is my LinkedIn: www.linkedin.com/in/ananya-jakilati
 
-⚡ Fun fact: Skilled in Python, C, C++, Java, Swift, Autodesk Inventor, 
+⚡ Fun fact: Skilled in Python, C, C++, Java, Machine Learning, Swift, Autodesk Inventor
 
 📫 Contact: anu.jakilati@gmail.com
 
