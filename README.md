@@ -13,3 +13,5 @@
       📗 Google ML: https://github.com/anujakilati/QueryPopularityRanking-System
 
       📙 Break Through Tech AI, ML Foundations Course Labs: https://github.com/anujakilati/BreakThroughTechAI
+
+      📕 Kaggle Collagen Competition: https://github.com/anujakilati/Kaggle-Collagen
