@@ -15,3 +15,4 @@
       📙 Break Through Tech AI, ML Foundations Course Labs: https://github.com/anujakilati/BreakThroughTechAI
 
       📕 Kaggle Collagen Competition: https://github.com/anujakilati/Kaggle-Collagen
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujakilati)](https://github.com/anujakilati/github-readme-stats)
