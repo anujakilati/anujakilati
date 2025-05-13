@@ -16,4 +16,3 @@
 
       📕 Kaggle Collagen Competition: https://github.com/anujakilati/Kaggle-Collagen
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujakilati&hide=Jupyter%20Notebook)]
